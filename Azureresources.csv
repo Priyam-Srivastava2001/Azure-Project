@@ -1,0 +1,7 @@
+﻿NAME,TYPE,LOCATION
+Chatbot-Covid19,QnA maker,West US
+Chatbot-Covid19,App Service,East US
+Chatbot-Covid19,App Service plan,East US
+chatbot-covid19-bot,Web App Bot,Global
+chatbot-covid19-bot-9031,App Service,East US
+chatbotcovid19-as5sprivy7q65ni,Search service,East US
